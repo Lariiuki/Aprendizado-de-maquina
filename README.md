@@ -1,4 +1,4 @@
-# Aprendizado-de-m-quina# Aprendizado-de-m-quina
+# Aprendizado-de-maquina
 
 Este projeto apresenta um teste prático de aprendizado de máquina utilizando o algoritmo k-Nearest Neighbors (kNN) aplicado ao famoso dataset Iris.
 
